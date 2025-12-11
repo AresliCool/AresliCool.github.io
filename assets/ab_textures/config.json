@@ -1,1 +1,101 @@
-{"importBase":"import","nativeBase":"native","name":"ab_textures","deps":[],"uuids":["06da768ec","76optSQzVBq59zC+ARucY8@6c48a","a3u2tKK31CxbSlMnb2waUy@6c48a","caNp0kDthH56DglCC9hk3T@6c48a","e4a1mZncxIG5H5N971/bTo@6c48a","76optSQzVBq59zC+ARucY8","76optSQzVBq59zC+ARucY8@f9941","a3u2tKK31CxbSlMnb2waUy","a3u2tKK31CxbSlMnb2waUy@f9941","caNp0kDthH56DglCC9hk3T","caNp0kDthH56DglCC9hk3T@f9941","e4a1mZncxIG5H5N971/bTo","e4a1mZncxIG5H5N971/bTo@f9941"],"paths":{"1":["items/11/texture",1,1],"2":["items/icons/11/texture",1,1],"3":["items/12/texture",1,1],"4":["items/icons/12/texture",1,1],"5":["items/11",0,1],"6":["items/11/spriteFrame",2,1],"7":["items/icons/11",0,1],"8":["items/icons/11/spriteFrame",2,1],"9":["items/12",0,1],"10":["items/12/spriteFrame",2,1],"11":["items/icons/12",0,1],"12":["items/icons/12/spriteFrame",2,1]},"scenes":{},"packs":{"06da768ec":[1,2,3,4]},"versions":{"import":[],"native":[]},"redirect":[],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{},"types":["cc.ImageAsset","cc.Texture2D","cc.SpriteFrame"]}
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "ab_textures",
+    "deps": [],
+    "uuids": [
+        "06da768ec",
+        "76a29b52-4335-41ab-9f73-0be011b9c63c",
+        "76a29b52-4335-41ab-9f73-0be011b9c63c@6c48a",
+        "76a29b52-4335-41ab-9f73-0be011b9c63c@f9941",
+        "a3bb6b4a-2b7d-42c5-b4a5-3276f6c1a532",
+        "a3bb6b4a-2b7d-42c5-b4a5-3276f6c1a532@6c48a",
+        "a3bb6b4a-2b7d-42c5-b4a5-3276f6c1a532@f9941",
+        "ca369d24-0ed8-47e7-a0e0-9420bd864dd3",
+        "ca369d24-0ed8-47e7-a0e0-9420bd864dd3@6c48a",
+        "ca369d24-0ed8-47e7-a0e0-9420bd864dd3@f9941",
+        "e46b5999-9dcc-481b-91f9-37def5fdb4e8",
+        "e46b5999-9dcc-481b-91f9-37def5fdb4e8@6c48a",
+        "e46b5999-9dcc-481b-91f9-37def5fdb4e8@f9941"
+    ],
+    "paths": {
+        "76a29b52-4335-41ab-9f73-0be011b9c63c": [
+            "items/11",
+            "cc.ImageAsset",
+            1
+        ],
+        "76a29b52-4335-41ab-9f73-0be011b9c63c@6c48a": [
+            "items/11/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "76a29b52-4335-41ab-9f73-0be011b9c63c@f9941": [
+            "items/11/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ca369d24-0ed8-47e7-a0e0-9420bd864dd3": [
+            "items/12",
+            "cc.ImageAsset",
+            1
+        ],
+        "ca369d24-0ed8-47e7-a0e0-9420bd864dd3@6c48a": [
+            "items/12/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "ca369d24-0ed8-47e7-a0e0-9420bd864dd3@f9941": [
+            "items/12/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a3bb6b4a-2b7d-42c5-b4a5-3276f6c1a532": [
+            "items/icons/11",
+            "cc.ImageAsset",
+            1
+        ],
+        "a3bb6b4a-2b7d-42c5-b4a5-3276f6c1a532@6c48a": [
+            "items/icons/11/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "a3bb6b4a-2b7d-42c5-b4a5-3276f6c1a532@f9941": [
+            "items/icons/11/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "e46b5999-9dcc-481b-91f9-37def5fdb4e8": [
+            "items/icons/12",
+            "cc.ImageAsset",
+            1
+        ],
+        "e46b5999-9dcc-481b-91f9-37def5fdb4e8@6c48a": [
+            "items/icons/12/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "e46b5999-9dcc-481b-91f9-37def5fdb4e8@f9941": [
+            "items/icons/12/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "06da768ec": [
+            "76a29b52-4335-41ab-9f73-0be011b9c63c@6c48a",
+            "a3bb6b4a-2b7d-42c5-b4a5-3276f6c1a532@6c48a",
+            "ca369d24-0ed8-47e7-a0e0-9420bd864dd3@6c48a",
+            "e46b5999-9dcc-481b-91f9-37def5fdb4e8@6c48a"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

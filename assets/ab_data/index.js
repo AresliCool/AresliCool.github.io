@@ -1,4 +1,8 @@
-System.register("chunks:///_virtual/ab_data",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///_virtual/ab_data", [], function () {
+  return {
+    execute: function () {}
+  };
+});
 
 (function(r) {
   r('virtual:///prerequisite-imports/ab_data', 'chunks:///_virtual/ab_data'); 

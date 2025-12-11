@@ -1,1 +1,27 @@
-{"importBase":"import","nativeBase":"native","name":"ab_data","deps":[],"uuids":["09ivjIHCpOy50b0rmCs1h2"],"paths":{"0":["maps/1000",0,1]},"scenes":{},"packs":{},"versions":{"import":[],"native":[]},"redirect":[],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{},"types":["cc.JsonAsset"]}
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "ab_data",
+    "deps": [],
+    "uuids": [
+        "098af8c8-1c2a-4ecb-9d1b-d2b982b35876"
+    ],
+    "paths": {
+        "098af8c8-1c2a-4ecb-9d1b-d2b982b35876": [
+            "maps/1000",
+            "cc.JsonAsset",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
